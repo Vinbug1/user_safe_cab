@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "709779925482",
+    "project_id": "safecab-314221",
+    "storage_bucket": "safecab-314221.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709779925482:android:14fe0aca13f731a4f16a93",
+        "android_client_info": {
+          "package_name": "com.example.userSafeCab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709779925482-j86qmous28r5b60m36n7v6l141fk6esd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr14twFV9dUjTtokIXp62vryjl662k5Zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709779925482-j86qmous28r5b60m36n7v6l141fk6esd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
